@@ -63,7 +63,7 @@ It automates deployment using **ARM templates, SWA tokens, and secret variables*
 
 ## 📂 Project Structure
 
-
+project-root/ │ ├── Jenkinsfile             # Defines CI/CD pipeline steps ├── scripts/ │   ├── deploy.sh           # Deployment script to Azure SWA │   └── arm-deploy.sh       # ARM template deployment script ├── website/ │   ├── index.html          # Static website files │   └── css/ ├── apache-config/          # Apache server configuration files └── README.md              
 ---
 
 ## 💡 Learning Outcomes
