@@ -87,13 +87,7 @@ project-root/ │ ├── Jenkinsfile             # Defines CI/CD pipeline ste
 
 ---
 
-## 📸 Project Screenshot
-
-*(Optional: Add screenshot of Jenkins pipeline, Azure SWA deployment, or Apache test page)*
-
----
-
 ## 📫 Contact
 
 If you have any questions about this project, reach me at **rthakre992@gmail.com**.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rajendra-thakre-76010a237).
+Connect with me on [LinkedIn].-  https://www.linkedin.com/in/rajendrathakare
