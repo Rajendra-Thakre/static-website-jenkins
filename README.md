@@ -62,3 +62,38 @@ It automates deployment using **ARM templates, SWA tokens, and secret variables*
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 💡 Learning Outcomes
+
+- Hands-on experience with **Jenkins pipelines** and **self-hosted agents**  
+- Deploying **Azure Static Web Apps** using **SWA token & secret variables**  
+- Infrastructure provisioning using **ARM templates**  
+- Integration of **GitHub commits with CI/CD pipelines**  
+- Managing **Ubuntu servers and Apache hosting**  
+- Writing **automation scripts in Bash** for repeatable deployments  
+- Secure handling of **tokens and secrets** in CI/CD  
+
+---
+
+## 🔗 Useful Links
+
+- [Azure Static Web App Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/)  
+- [Jenkins Official Documentation](https://www.jenkins.io/doc/)  
+- [GitHub Actions & CI/CD Integration](https://docs.github.com/en/actions)  
+- [ARM Templates Overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)  
+
+---
+
+## 📸 Project Screenshot
+
+*(Optional: Add screenshot of Jenkins pipeline, Azure SWA deployment, or Apache test page)*
+
+---
+
+## 📫 Contact
+
+If you have any questions about this project, reach me at **rthakre992@gmail.com**.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/rajendra-thakre-76010a237).
